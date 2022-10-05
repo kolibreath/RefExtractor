@@ -1,0 +1,364 @@
+[1] R. Saravanan, S. Ramabalan, N. G. R. Ebenezer, and C. Dharmaraja, “Evolutionary
+multi criteria design optimization of robot grippers,” Applied Soft Computing,
+vol. 9, no. 1, pp. 159–172, 2009.
+[2] M. Basu, “Economic environmental dispatch using multi-objective differential
+evolution,” Applied soft computing, vol. 11, no. 2, pp. 2845–2853, 2011.
+[3] X. Zuo, C. Chen, W. Tan, and M. Zhou, “Vehicle scheduling of an urban bus
+line via an improved multiobjective genetic algorithm,” IEEE Transactions on
+Intelligent Transportation Systems, vol. 16, no. 2, pp. 1030–1041, 2014.
+[4] Y. Cui, Z. Geng, Q. Zhu, and Y. Han, “Multi-objective optimization methods and
+application in energy saving,” Energy, vol. 125, pp. 681–704, 2017.
+[5] K. Shang, H. Ishibuchi, L. He, and L. M. Pang, “A survey on the hypervolume
+indicator in evolutionary multiobjective optimization,” IEEE Transactions on
+Evolutionary Computation, vol. 25, no. 1, pp. 1–20, 2020.
+[6] X. Ma, Y. Yu, X. Li, Y. Qi, and Z. Zhu, “A survey of weight vector adjustment
+methods for decomposition-based multiobjective evolutionary algorithms,” IEEE
+Transactions on Evolutionary Computation, vol. 24, no. 4, pp. 634–649, 2020.
+[7] A. Asrari, S. Lotfifard, and M. S. Payam, “Pareto dominance-based multiobjective
+optimization method for distribution network reconfiguration,” IEEE Transactions
+on Smart Grid, vol. 7, no. 3, pp. 1401–1410, 2015.
+[8] H. Zhang, D. Yue, X. Xie, S. Hu, and S. Weng, “Pareto-dominance based
+adaptive multi-objective optimization for hydrothermal coordinated scheduling
+with environmental emission,” Applied Soft Computing, vol. 69, pp. 270–287,
+2018.
+[9] S. Dutta and K. N. Das, “A survey on Pareto-based EAs to solve multi-objective
+optimization problems,” Soft Computing for Problem Solving, pp. 807–820, 2019.
+[10] A. Trivedi, D. Srinivasan, K. Sanyal, and A. Ghosh, “A survey of multiobjective
+evolutionary algorithms based on decomposition,” IEEE Transactions on Evolutionary
+Computation, vol. 21, no. 3, pp. 440–462, 2016.
+[11] M. Behtash and M. J. Alexander-Ramos, “A decomposition-based optimization
+algorithm for combined plant and control design of interconnected dynamic
+systems,” Journal of Mechanical Design, vol. 142, no. 6, 2020.
+[12] S. S. Meghwani and M. Thakur, “Adaptively weighted decomposition based multiobjective
+evolutionary algorithm,” Applied Intelligence, vol. 51, no. 6, pp. 3801–
+3823, 2021.
+[13] Y. Tian, R. Cheng, X. Zhang, F. Cheng, and Y. Jin, “An indicator-based
+multiobjective evolutionary algorithm with reference point adaptation for better
+versatility,” IEEE Transactions on Evolutionary Computation, vol. 22, no. 4, pp.
+609–622, 2017.
+[14] Y. Sun, G. G. Yen, and Z. Yi, “IGD indicator-based evolutionary algorithm
+for many-objective optimization problems,” IEEE Transactions on Evolutionary
+Computation, vol. 23, no. 2, pp. 173–187, 2018.
+[15] J. G. Falc´on-Cardona and C. A. C. Coello, “Indicator-based multi-objective
+evolutionary algorithms: A comprehensive survey,” ACM Computing Surveys
+(CSUR), vol. 53, no. 2, pp. 1–35, 2020.
+[16] J. Yuan, H.-L. Liu, Y.-S. Ong, and Z. He, “Indicator-based evolutionary algorithm
+for solving constrained multi-objective optimization problems,” IEEE Transactions
+on Evolutionary Computation, 2021, doi: 10.1109/TEVC.2021.3089155.
+[17] Y. Zhou, Y. Xiang, and X. He, “Constrained multi-objective optimization: Test
+problem construction and performance evaluations,” IEEE Transactions on Evolutionary
+Computation, 2020, doi: 10.1109/TEVC.2020.3011829.
+[18] Z. Ma and Y. Wang, “Evolutionary constrained multiobjective optimization:
+Test suite construction and performance comparisons,” IEEE Transactions on
+Evolutionary Computation, vol. 23, no. 6, pp. 972–986, 2019.
+[19] Z. Fan, W. Li, X. Cai, H. Li, C. Wei, Q. Zhang, K. Deb, and E. Goodman, “Push
+and pull search for solving constrained multi-objective optimization problems,”
+Swarm and Evolutionary Computation, vol. 44, pp. 665–679, 2019.
+[20] M. Ming, A. Trivedi, R. Wang, D. Srinivasan, and T. Zhang, “A dualpopulation
+based evolutionary algorithm for constrained multi-objective optimization,”
+IEEE Transactions on Evolutionary Computation, 2021, doi:
+10.1109/TEVC.2021.3066301.
+[21] Y. Xiang, X. Yang, H. Huang, and J. Wang, “Balancing constraints and objectives
+by considering problem types in constrained multiobjective optimization,” IEEE
+Transactions on Cybernetics, 2021, doi: 10.1109/TCYB.2021.3089633.
+[22] Z. Fan, W. Li, X. Cai, H. Huang, Y. Fang, Y. You, J. Mo, C. Wei, and E. Goodman,
+“An improved epsilon constraint-handling method in MOEA/D for CMOPs with
+large infeasible regions,” Soft Computing, vol. 23, no. 23, pp. 12 491–12 510,
+2019.
+[23] Z. Fan, W. Li, X. Cai, H. Li, C. Wei, Q. Zhang, K. Deb, and E. Goodman, “Difficulty
+adjustable and scalable constrained multiobjective test problem toolkit,”
+Evolutionary Computation, vol. 28, no. 3, pp. 339–378, 2020.
+[24] Z. Xia, Y. Liu, J. Lu, J. Cao, and L. Rutkowski, “Penalty method for constrained
+distributed quaternion-variable optimization,” IEEE Transactions on Cybernetics,
+2020, doi: 10.1109/TCYB.2020.3031687.
+[25] Z. Ma and Y. Wang, “Shift-based penalty for evolutionary constrained multiobjective
+optimization and its application,” IEEE Transactions on Cybernetics, pp.
+1–13, 2021, doi: 10.1109/TCYB.2021.3069814.
+[26] B.-C. Wang, H.-X. Li, J.-P. Li, and Y. Wang, “Composite differential evolution
+for constrained evolutionary optimization,” IEEE Transactions on Systems, Man,
+and Cybernetics: Systems, vol. 49, no. 7, pp. 1482–1495, 2018.
+[27] C. Wang and R. Xu, “An angle based evolutionary algorithm with infeasibility information
+for constrained many-objective optimization,” Applied Soft Computing,
+vol. 86, p. 105911, 2020.
+[28] C. Segura, C. A. C. Coello, G. Miranda, and C. Le´on, “Using multi-objective
+evolutionary algorithms for single-objective constrained and unconstrained optimization,”
+Annals of Operations Research, vol. 240, no. 1, pp. 217–250, 2016.
+[29] C. Peng, H.-L. Liu, and F. Gu, “An evolutionary algorithm with directed weights
+for constrained multi-objective optimization,” Applied Soft Computing, vol. 60,
+pp. 613–622, 2017.
+[30] H. Zhang, K. Tao, L. Ma, and Y. Yong, “Handling constrained multi-objective
+optimization with objective space mapping to decision space based on extreme
+learning machine,” in 2020 IEEE Congress on Evolutionary Computation (CEC).
+IEEE, 2020, pp. 1–7.
+[31] V. Kelner, F. Capitanescu, O. L´eonard, and L. Wehenkel, “A hybrid optimization
+technique coupling an evolutionary and a local search algorithm,” Journal of
+Computational and Applied Mathematics, vol. 215, no. 2, pp. 448–456, 2008.
+[32] A. Lara, L. Uribe, S. Alvarado, V. A. Sosa, H. Wang, and O. Sch¨utze, “On
+the choice of neighborhood sampling to build effective search operators for
+constrained mops,” Memetic Computing, vol. 11, no. 2, pp. 155–173, 2019.
+[33] B. Xu, W. Duan, H. Zhang, and Z. Li, “Differential evolution with infeasibleguiding
+mutation operators for constrained multi-objective optimization,” Applied
+Intelligence, vol. 50, no. 12, pp. 4459–4481, 2020.
+[34] S. Ramesh, S. Kannan, and S. Baskar, “An improved generalized differential
+evolution algorithm for multi-objective reactive power dispatch,” Engineering
+Optimization, vol. 44, no. 4, pp. 391–405, 2012.
+[35] O. A. Jadaan, C. Rao, and L. Rajamani, “Solving constrained multi-objective
+optimization problems using non-dominated ranked genetic algorithm,” in 2009
+Third Asia International Conference on Modelling Simulation, 2009, pp. 113–118.
+[36] H. Zhang, Y. Zhu, and X. Yan, “Multi-hive artificial bee colony algorithm for
+constrained multi-objective optimization,” in 2012 IEEE Congress on Evolutionary
+Computation, 2012, pp. 1–8.
+[37] Y. G. Woldesenbet, G. G. Yen, and B. G. Tessema, “Constraint handling in
+multiobjective evolutionary optimization,” IEEE Transactions on Evolutionary
+Computation, vol. 13, no. 3, pp. 514–525, 2009.
+[38] M. A. Jan and Q. Zhang, “MOEA/D for constrained multiobjective optimization:
+Some preliminary experimental results,” in 2010 UK Workshop on Computational
+Intelligence (UKCI), 2010, pp. 1–6.
+[39] M. A. Jan, N. Tairan, and R. A. Khanum, “Threshold based dynamic and
+adaptive penalty functions for constrained multiobjective optimization,” in 2013
+1st International Conference on Artificial Intelligence, Modelling and Simulation,
+2013, pp. 49–54.
+[40] L. Jiao, J. Luo, R. Shang, and F. Liu, “A modified objective function method
+with feasible-guiding strategy to solve constrained multi-objective optimization
+problems,” Applied Soft Computing, vol. 14, pp. 363–380, 2014.
+[41] H. M. Maldonado and S. Zapotecas-Mart´ınez, “A dynamic penalty function within
+MOEA/D for constrained multi-objective optimization problems,” in 2021 IEEE
+Congress on Evolutionary Computation (CEC). IEEE, 2021, pp. 1470–1477.
+[42] F. Vaz, Y. Lavinas, C. Aranha, and M. Ladeira, “Exploring constraint handling
+techniques in real-world problems on MOEA/D with limited budget of evaluations,”
+in International Conference on Evolutionary Multi-Criterion Optimization.
+Springer, 2021, pp. 555–566.
+[43] Z. Fan, J. Ruan, W. Li, Y. You, X. Cai, Z. Xu, Z. Yang, F. Sun, Z. Wang,
+Y. Yuan et al., “A learning guided parameter setting for constrained multi-objective
+optimization,” in 2019 1st International Conference on Industrial Artificial Intelligence
+(IAI). IEEE, 2019, pp. 1–6.
+[44] Z. Fan, W. Li, X. Cai, H. Li, C. Wei, Q. Zhang, K. Deb, and E. D. Goodman, “Push
+and pull search for solving constrained multi-objective optimization problems,”
+Swarm and Evolutionary Computation, vol. 44, 2017.
+[45] Z. Ma, Y. Wang, and W. Song, “A new fitness function with two rankings
+for evolutionary constrained multiobjective optimization,” IEEE Transactions on
+Systems, Man, and Cybernetics: Systems, vol. PP, no. 99, pp. 1–12, 2019.
+[46] K. Deb, A. Pratap, S. Agarwal, and T. Meyarivan, “A fast and elitist multiobjective
+genetic algorithm: NSGA-II,” IEEE Transactions on Evolutionary Computation,
+vol. 6, no. 2, pp. 182–197, 2002.
+[47] K. Yu, J. Liang, B. Qu, Y. Luo, and C. Yue, “Dynamic selection preferenceassisted
+constrained multiobjective differential evolution,” IEEE Transactions
+on Systems, Man, and Cybernetics: Systems, pp. 1–12, 2021, doi:
+10.1109/TSMC.2021.3061698.
+[48] W. Gong and Z. Cai, “Differential evolution with ranking-based mutation operators,”
+IEEE Transactions on Cybernetics, vol. 43, no. 6, pp. 2066–2081, 2013.
+[49] H. Ma, “An analysis of the equilibrium of migration models for biogeographybased
+optimization,” Information Sciences, vol. 180, no. 18, pp. 3444–3464, 2010.
+[50] J. L. L. Garc´ıa, R. Monroy, V. A. S. Hern´andez, and C. A. C. Coello, “Coarseemoa:
+An indicator-based evolutionary algorithm for solving equality constrained
+multi-objective optimization problems,” Swarm and Evolutionary Computation,
+vol. 67, p. 100983, 2021.
+[51] T. Takahama and S. Sakai, “Constrained optimization by the  constrained
+differential evolution with gradient-based mutation and feasible elites,” in 2006
+IEEE International Conference on Evolutionary Computation, 2006, pp. 1–8.
+[52] K. Qiao, J. Liang, K. Yu, M. Yuan, B. Qu, and C. Yue, “Self-adaptive resources
+allocation-based differential evolution for constrained evolutionary optimization,”
+Knowledge-Based Systems, p. 107653, 2021.
+[53] T. Runarsson and X. Yao, “Stochastic ranking for constrained evolutionary
+optimization,” IEEE Transactions on Evolutionary Computation, vol. 4, no. 3,
+pp. 284–294, 2000.
+[54] F. Jimenez, A. Gomez-Skarmeta, G. Sanchez, and K. Deb, “An evolutionary
+algorithm for constrained multi-objective optimization,” in Proceedings of the
+2002 Congress on Evolutionary Computation. CEC’02 (Cat. No.02TH8600),
+vol. 2, 2002, pp. 1133–1138.
+[55] A. Saha and T. Ray, “Equality constrained multi-objective optimization,” in 2012
+IEEE Congress on Evolutionary Computation, 2012, pp. 1–7.
+[56] J. Wei and Y. Wang, “An infeasible elitist based particle swarm optimization
+for constrained multiobjective optimization and its convergence,” International
+Journal of Pattern Recognition and Artificial Intelligence, vol. 24, no. 03, pp.
+381–400, 2010.
+[57] H. Jain and K. Deb, “An evolutionary many-objective optimization algorithm using
+reference-point based nondominated sorting approach, part ii: Handling constraints
+and extending to an adaptive approach,” IEEE Transactions on evolutionary
+computation, vol. 18, no. 4, pp. 602–622, 2013.
+[58] Z. Fan, W. Li, X. Cai, K. Hu, H. Lin, and H. Li, “Angle-based constrained
+dominance principle in MOEA/D for constrained multi-objective optimization
+problems,” in 2016 IEEE Congress on Evolutionary Computation (CEC), 2016,
+pp. 460–467.
+[59] Z. Fan, Y. Fang, W. Li, X. Cai, C. Wei, and E. Goodman, “MOEA/D with anglebased
+constrained dominance principle for constrained multi-objective optimization
+problems,” Applied Soft Computing, vol. 74, pp. 621–633, 2019.
+[60] W. Ning, B. Guo, Y. Yan, X.Wu, J.Wu, and D. Zhao, “Constrained multi-objective
+optimization using constrained non-dominated sorting combined with an improved
+hybrid multi-objective evolutionary algorithm,” Engineering Optimization, vol. 49,
+no. 10, pp. 1645–1664, 2017.
+[61] D. K. Saxena, T. Ray, K. Deb, and A. Tiwari, “Constrained many-objective optimization:
+A way forward,” in 2009 IEEE Congress on Evolutionary Computation,
+2009, pp. 545–552.
+[62] S. Zapotecas Martinez, A. Arias Montano, and C. A. Coello Coello, “Constrained
+multi-objective aerodynamic shape optimization via swarm intelligence,”
+in Proceedings of the 2014 Annual Conference on Genetic and Evolutionary
+Computation, 2014, pp. 81–88.
+[63] Z. Yang, X. Cai, and Z. Fan, “Epsilon constrained method for constrained
+multiobjective optimization problems: some preliminary results,” in Proceedings
+of the Companion Publication of the 2014 Annual Conference on Genetic and
+Evolutionary Computation, 2014, pp. 1181–1186.
+[64] R. L. Becerra, C. A. Coello Coello, A. G. Hern´andez-D´ıaz, R. Caballero, and
+J. Molina, “Alternative techniques to solve hard multi-objective optimization problems,”
+in Proceedings of the 9th annual conference on Genetic and evolutionary
+computation, 2007, pp. 757–754.
+[65] S. Z. Martinez and C. A. C. Coello, “A multi-objective evolutionary algorithm
+based on decomposition for constrained multi-objective optimization,” in 2014
+IEEE Congress on evolutionary computation (CEC). IEEE, 2014, pp. 429–436.
+[66] Z. Fan, H. Li, C. Wei, W. Li, H. Huang, X. Cai, and Z. Cai, “An improved epsilon
+constraint handling method embedded in MOEA/D for constrained multi-objective
+optimization problems,” in 2016 IEEE Symposium Series on Computational
+Intelligence (SSCI). IEEE, 2016, pp. 1–8.
+[67] Y. Yang, J. Liu, S. Tan, and H. Wang, “A multi-objective differential evolutionary
+algorithm for constrained multi-objective optimization problems with low feasible
+ratio,” Applied Soft Computing, vol. 80, pp. 42–56, 2019.
+[68] S. Zapotecas-Mart´ınez and A. Ponsich, “Constraint handling within MOEA/D
+through an additional scalarizing function,” in Proceedings of the 2020 Genetic
+and Evolutionary Computation Conference, 2020, pp. 595–602.
+[69] Y. Yang, J. Liu, and S. Tan, “A constrained multi-objective evolutionary algorithm
+based on decomposition and dynamic constraint-handling mechanism,” Applied
+Soft Computing, vol. 89, p. 106104, 2020.
+[70] Z. Wang, J. Wei, and Y. Zhang, “A multi-constraint handling techniquebased niching
+evolutionary algorithm for constrained multi-objective optimization problems,”
+in 2020 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2020, pp.
+1–6.
+[71] Q. Zhu, Q. Zhang, and Q. Lin, “A constrained multiobjective evolutionary
+algorithm with detect-and-escape strategy,” IEEE Transactions on Evolutionary
+Computation, vol. 24, no. 5, pp. 938–947, 2020.
+[72] H. Geng, M. Zhang, L. Huang, and X. Wang, “Infeasible elitists and stochastic
+ranking selection in constrained evolutionary multi-objective optimization,” in
+Asia-Pacific Conference on Simulated Evolution and Learning. Springer, 2006,
+pp. 336–344.
+[73] M. A. Jan and R. A. Khanum, “A study of two penalty-parameterless constraint
+handling techniques in the framework of MOEA/D,” Applied Soft Computing,
+vol. 13, no. 1, pp. 128–148, 2013.
+[74] W.-Q. Ying, W.-P. He, Y.-X. Huang, D.-T. Li, and Y. Wu, “An adaptive stochastic
+ranking mechanism in MOEA/D for constrained multi-objective optimization,” in
+2016 International Conference on Information System and Artificial Intelligence
+(ISAI). IEEE, 2016, pp. 514–518.
+[75] Z.-Z. Liu, Y. Wang, and B.-C. Wang, “Indicator-based constrained multiobjective
+evolutionary algorithms,” IEEE Transactions on Systems, Man, and Cybernetics:
+Systems, 2019, doi: 10.1109/TSMC.2019.2954491.
+[76] Q. Gu, Q. Wang, N. N. Xiong, S. Jiang, and L. Chen, “Surrogate-assisted evolutionary
+algorithm for expensive constrained multi-objective discrete optimization
+problems,” Complex & Intelligent Systems, pp. 1–20, 2021.
+[77] D. A. Vieira, R. L. Adriano, J. A. Vasconcelos, and L. Krahenbuhl, “Treating
+constraints as objectives in multiobjective optimization problems using niched
+Pareto genetic algorithm,” IEEE Transactions on Magnetics, vol. 40, no. 2, pp.
+1188–1191, 2004.
+[78] T. Ray, H. K. Singh, A. Isaacs, and W. Smith, “Infeasibility driven evolutionary
+algorithm for constrained optimization,” in Constraint-Handling in Evolutionary
+Optimization. Springer, 2009, pp. 145–165.
+[79] A. Isaacs, T. Ray, and W. Smith, “Blessings of maintaining infeasible solutions for
+constrained multi-objective optimization problems,” in 2008 IEEE Congress on
+Evolutionary Computation (IEEE World Congress on Computational Intelligence).
+IEEE, 2008, pp. 2780–2787.
+[80] Q. Long, “A constraint handling technique for constrained multi-objective genetic
+algorithm,” Swarm and Evolutionary Computation, vol. 15, pp. 66–79, 2014.
+[81] Y. Zhou, M. Zhu, J. Wang, Z. Zhang, Y. Xiang, and J. Zhang, “Tri-goal evolution
+framework for constrained many-objective optimization,” IEEE Transactions on
+Systems, Man, and Cybernetics: Systems, vol. 50, no. 8, pp. 3086–3099, 2018.
+[82] D. Chafekar, J. Xuan, and K. Rasheed, “Constrained multi-objective optimization
+using steady state genetic algorithms,” in Genetic and Evolutionary Computation
+Conference. Springer, 2003, pp. 813–824.
+[83] J. Wang, G. Liang, and J. Zhang, “Cooperative differential evolution framework
+for constrained multiobjective optimization,” IEEE Transactions on Cybernetics,
+vol. 49, no. 6, pp. 2060–2072, 2018.
+[84] H.-L. Liu and D. Wang, “A constrained multiobjective evolutionary algorithm
+based decomposition and temporary register,” in 2013 IEEE Congress on Evolutionary
+Computation. IEEE, 2013, pp. 3058–3063.
+[85] H.-L. Liu, C. Peng, F. Gu, and J. Wen, “A constrained multi-objective evolutionary
+algorithm based on boundary search and archive,” International Journal of Pattern
+Recognition and Artificial Intelligence, vol. 30, no. 01, p. 1659002, 2016.
+[86] Y. Yang, J. Liu, and S. Tan, “A partition-based constrained multi-objective
+evolutionary algorithm,” Swarm and Evolutionary Computation, p. 100940, 2021,
+doi: 10.1016/j.swevo.2021.100940.
+[87] B. Liu, H. Ma, X. Zhang, and Y. Zhou, “A memetic co-evolutionary differential
+evolution algorithm for constrained optimization,” in 2007 IEEE Congress on
+Evolutionary Computation. IEEE, 2007, pp. 2996–3002.
+[88] Y. Tian, T. Zhang, J. Xiao, X. Zhang, and Y. Jin, “A coevolutionary framework
+for constrained multi-objective optimization problems,” IEEE Transactions on
+Evolutionary Computation, 2020, doi: 10.1109/TEVC.2020.3004012.
+[89] K. Li, R. Chen, G. Fu, and X. Yao, “Two-archive evolutionary algorithm for
+constrained multiobjective optimization,” IEEE Transactions on Evolutionary
+Computation, vol. 23, no. 2, pp. 303–315, 2018.
+[90] J. Wang, Y. Li, Q. Zhang, Z. Zhang, and S. Gao, “Cooperative multiobjective
+evolutionary algorithm with propulsive population for constrained multiobjective
+optimization,” IEEE Transactions on Systems, Man, and Cybernetics: Systems,
+2021, doi: 10.1109/TSMC.2021.3069986.
+[91] Z.-Z. Liu, B.-C. Wang, and K. Tang, “Handling constrained multiobjective
+optimization problems via bidirectional coevolution,” IEEE Transactions on
+Cybernetics, 2021, doi: 10.1109/TCYB.2021.3056176.
+[92] L. V. Santana-Quintero, A. G. Hern´andez-D´ıaz, J. Molina, C. A. C. Coello, and
+R. Caballero, “DEMORS: A hybrid multi-objective optimization algorithm using
+differential evolution and rough set theory for constrained problems,” Computers
+& Operations Research, vol. 37, no. 3, pp. 470–480, 2010.
+[93] Z. Fan, Z. Wang, W. Li, Y. Yuan, Y. You, Z. Yang, F. Sun, and J. Ruan, “Push
+and pull search embedded in an M2M framework for solving constrained multiobjective
+optimization problems,” Swarm and Evolutionary Computation, vol. 54,
+p. 100651, 2020.
+[94] H. Wang, T. Cai, K. Li, and W. Pedrycz, “Constraint handling technique
+based on lebesgue measure for constrained multiobjective particle swarm
+optimization algorithm,” Knowledge-Based Systems, p. 107131, 2021, doi:
+10.1016/j.knosys.2021.107131.
+[95] C. Garcia-Garcia, M.-G. Mart´ınez-Pe˜naloza, and A. Morales-Reyes, “cmoga/d:
+a novel cellular ga based on decomposition to tackle constrained multiobjetive
+problems,” in Proceedings of the 2020 Genetic and Evolutionary Computation
+Conference Companion, 2020, pp. 1721–1729.
+[96] Y. Tian, Y. Zhang, Y. Su, X. Zhang, K. C. Tan, and Y. Jin, “Balancing
+objective optimization and constraint satisfaction in constrained evolutionary
+multiobjective optimization,” IEEE Transactions on Cybernetics, 2021, doi:
+10.1109/TCYB.2020.3021138.
+[97] Z.-Z. Liu and Y. Wang, “Handling constrained multiobjective optimization
+problems with constraints in both the decision and objective spaces,” IEEE
+Transactions on Evolutionary Computation, vol. 23, no. 5, pp. 870–884, 2019.
+[98] K. Yu, J. Liang, B. Qu, and C. Yue, “Purpose-directed two-phase multiobjective
+differential evolution for constrained multiobjective optimization,” Swarm and
+Evolutionary Computation, vol. 60, p. 100799, 2021.
+[99] X. Yu and Y. Lu, “A corner point-based algorithm to solve constrained multiobjective
+optimization problems,” Applied Intelligence, vol. 48, no. 9, pp. 3019–
+3037, 2018.
+[100] F. Ming, W. Gong, H. Zhen, S. Li, L. Wang, and Z. Liao, “A simple two-stage
+evolutionary algorithm for constrained multi-objective optimization,” Knowledge-
+Based Systems, vol. 228, p. 107263, 2021.
+[101] F. Caraffini, F. Neri, G. Iacca, and A. Mol, “Parallel memetic structures,”
+Information Sciences, vol. 227, pp. 60–82, 2013.
+[102] F. Caraffini, F. Neri, and L. Picinali, “An analysis on separability for memetic
+computing automatic design,” Information Sciences, vol. 265, pp. 1–22, 2014.
+[103] S. Datta, A. Ghosh, K. Sanyal, and S. Das, “A radial boundary intersection aided
+interior point method for multi-objective optimization,” Information Sciences, vol.
+377, pp. 1–16, 2017.
+[104] V. Morovati and L. Pourkarimi, “Extension of zoutendijk method for solving constrained
+multiobjective optimization problems,” European Journal of Operational
+Research, vol. 273, no. 1, pp. 44–57, 2019.
+[105] O. Sch¨utze, S. Alvarado, C. Segura, and R. Landa, “Gradient subspace approximation:
+a direct search method for memetic computing,” Soft Computing, vol. 21,
+no. 21, pp. 6331–6350, 2017.
+[106] L. Uribe, A. Lara, and O. Sch¨utze, “On the efficient computation and use of multiobjective
+descent directions within constrained MOEAs,” Swarm and Evolutionary
+Computation, vol. 52, p. 100617, 2020.
+[107] O. Cuate, A. Ponsich, L. Uribe, S. Zapotecas-Mart´ınez, A. Lara, and O. Sch¨utze,
+“A new hybrid evolutionary algorithm for the treatment of equality constrained
+mops,” Mathematics, vol. 8, no. 1, p. 7, 2020.
+[108] V. A. S. Hern´andez, O. Sch¨utze, H. Wang, A. Deutz, and M. Emmerich,
+“The set-based hypervolume newton method for bi-objective optimization,” IEEE
+transactions on cybernetics, vol. 50, no. 5, pp. 2186–2196, 2018.
+[109] O. Sch¨utze, L. Uribe, and A. Lara, “The gradient subspace approximation and
+its application to bi-objective optimization problems,” in Proceedings of the
+Workshop on Dynamics, Optimization and Computation held in honor of the 60th
+birthday of Michael Dellnitz. Springer, 2020, pp. 355–390.
+[110] F. Qian, B. Xu, R. Qi, and H. Tianfield, “Self-adaptive differential evolution
+algorithm with -constrained-domination principle for constrained multi-objective
+optimization,” Soft Computing, vol. 16, no. 8, pp. 1353–1372, 2012.
+[111] X. Yu, X. Yu, Y. Lu, G. G. Yen, and M. Cai, “Differential evolution mutation
+operators for constrained multi-objective optimization,” Applied Soft Computing,
+vol. 67, pp. 452–466, 2018.
+[112] B. Qu and P. N. Suganthan, “Constrained multi-objective optimization algorithm
+with diversity enhanced differential evolution,” in IEEE Congress on Evolutionary
+Computation. IEEE, 2010, pp. 1–5.
+[113] Y.-N. Wang, L.-H. Wu, and X.-F. Yuan, “Multi-objective self-adaptive differential
+evolution with elitist archive and crowding entropy-based diversity measure,” Soft
+Computing, vol. 14, no. 3, pp. 193–209, 2010.
+[114] Y. Liu, X. Li, and Q. Hao, “A new constrained multi-objective optimization
+problems algorithm based on group-sorting,” in Proceedings of the Genetic and
+Evolutionary Computation Conference Companion, 2019, pp. 221–222.
